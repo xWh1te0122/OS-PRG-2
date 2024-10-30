@@ -1,5 +1,5 @@
 # OS-PRG-2
-### <span style="color:gray;">程式碼部分以copilot為工具完成，透過一步一步了解架構去修正錯誤內容，並實作出同步機制。</span>
+<h3 style="color:gray;">程式碼部分以copilot為工具完成，透過一步一步了解架構去修正錯誤內容，並實作出同步機制。</h3>
 
 ### 編譯程式方法:
 
