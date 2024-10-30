@@ -1,5 +1,5 @@
 # OS-PRG-2
-## 程式碼部分以copilot為工具完成，透過一步一步了解架構去修正錯誤內容，並實作出同步機制。
+### 程式碼部分以copilot為工具完成，透過一步一步了解架構去修正錯誤內容，並實作出同步機制。
 
 ### 編譯程式方法:
 
@@ -29,4 +29,4 @@ gcc -o lab2-2 lab2-2.c
 
 ### 執行範例截圖:
 
-![示例圖片](task 2/terminal_screenshot.png)
+![執行範例截圖](task2/terminal_screenshot.png)
